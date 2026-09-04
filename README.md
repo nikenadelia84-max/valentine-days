@@ -1,4 +1,4 @@
-# ❤️ Happy Valentine L
+# ❤️ happy birthday, seng
 
 A beautiful, interactive, and romantic web experience designed as a special Valentine's Day gift. This project features a multi-step interactive flow that leads to a stunning 3D Dome Gallery of memories.
 
@@ -83,4 +83,4 @@ This project is built using modern web technologies to ensure a smooth and premi
 - **Fonts**: [Google Fonts (Playfair Display & Geist)](https://fonts.google.com/)
 
 ---
-Made with ❤️ by DzarelDeveloper
+Made with ❤️ by lia-
