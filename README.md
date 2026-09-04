@@ -1,4 +1,4 @@
-# ❤️ Happy Valentine L
+# ❤️ happy birthday seng 
 
 A beautiful, interactive, and romantic web experience designed as a special Valentine's Day gift. This project features a multi-step interactive flow that leads to a stunning 3D Dome Gallery of memories.
 
@@ -45,7 +45,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 ## 📸 Customization
 
 ### Changing Photos
-Put your images in the `public/` folder and name them `1.jpeg`, `2.jpeg`, up to `15.jpeg`. If you have more or fewer photos, update the `userImages` array in `app/page.tsx`.
+Put your images in the `public/` folder and name them `1.jpeg`, `2.jpeg`, up to `3.jpeg`. If you have more or fewer photos, update the `userImages` array in `app/page.tsx`.
 
 ### Changing Music
 Replace the `public/pretty.mp3` file with your preferred romantic track (keep the filename or update it in `app/page.tsx`).
@@ -83,4 +83,4 @@ This project is built using modern web technologies to ensure a smooth and premi
 - **Fonts**: [Google Fonts (Playfair Display & Geist)](https://fonts.google.com/)
 
 ---
-Made with ❤️ by DzarelDeveloper
+Made with ❤️ by lia- 
